@@ -1,0 +1,8 @@
+[project]
+name = "agentic-chat"
+version = "0.1.0"
+description = "Hosted Agent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pydantic-ai-slim[google]", "rich>=14.1.0"]
+authors = [{ name = "drace", email = "daren.race@gmail.com" }]
